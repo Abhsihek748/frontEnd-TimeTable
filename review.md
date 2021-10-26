@@ -1,0 +1,2 @@
+- Project setup missing
+- Add inline comments to your code
