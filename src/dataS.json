@@ -1,0 +1,417 @@
+{
+    "6th": [
+        {
+            "--": "8:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "hindi",
+            "Saturday": "kannada"
+        },
+        {
+            "--": "9:00 AM",
+            "Monday": "maths",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": "hindi"
+        },
+        {
+            "--": "10:00 AM",
+            "Monday": "science",
+            "Tuesday": "maths",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "11:00 AM",
+            "Monday": "english",
+            "Tuesday": "science",
+            "Wednesday": "maths",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "12:00 PM",
+            "Monday": "kannada",
+            "Tuesday": "english",
+            "Wednesday": "science",
+            "Thursday": "maths",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "1:00 PM",
+            "Monday": "hindi",
+            "Tuesday": "kannada",
+            "Wednesday": "english",
+            "Thursday": "science",
+            "Friday": "maths",
+            "Saturday": ""
+        },
+        {
+            "--": "2:00 PM",
+            "Monday": "",
+            "Tuesday": "hindi",
+            "Wednesday": "kannada",
+            "Thursday": "english",
+            "Friday": "science",
+            "Saturday": "maths"
+        },
+        {
+            "--": "3:00 PM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "hindi",
+            "Thursday": "kannada",
+            "Friday": "english",
+            "Saturday": "science"
+        },
+        {
+            "--": "4:00 PM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "hindi",
+            "Friday": "kannada",
+            "Saturday": "english"
+        }
+    ],
+    "7th": [
+        {
+            "--": "8:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "hindi",
+            "Friday": "kannada",
+            "Saturday": "english"
+        },
+        {
+            "--": "9:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "hindi",
+            "Saturday": "kannada"
+        },
+        {
+            "--": "10:00 AM",
+            "Monday": "maths",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": "hindi"
+        },
+        {
+            "--": "11:00 AM",
+            "Monday": "science",
+            "Tuesday": "maths",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "12:00 PM",
+            "Monday": "english",
+            "Tuesday": "science",
+            "Wednesday": "maths",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "1:00 PM",
+            "Monday": "kannada",
+            "Tuesday": "english",
+            "Wednesday": "science",
+            "Thursday": "maths",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "2:00 PM",
+            "Monday": "hindi",
+            "Tuesday": "kannada",
+            "Wednesday": "english",
+            "Thursday": "science",
+            "Friday": "maths",
+            "Saturday": ""
+        },
+        {
+            "--": "3:00 PM",
+            "Monday": "",
+            "Tuesday": "hindi",
+            "Wednesday": "kannada",
+            "Thursday": "english",
+            "Friday": "science",
+            "Saturday": "maths"
+        },
+        {
+            "--": "4:00 PM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "hindi",
+            "Thursday": "kannada",
+            "Friday": "english",
+            "Saturday": "science"
+        }
+    ],
+    "8th": [
+        {
+            "--": "8:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "hindi",
+            "Thursday": "kannada",
+            "Friday": "english",
+            "Saturday": "science"
+        },
+        {
+            "--": "9:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "hindi",
+            "Friday": "kannada",
+            "Saturday": "english"
+        },
+        {
+            "--": "10:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "hindi",
+            "Saturday": "kannada"
+        },
+        {
+            "--": "11:00 AM",
+            "Monday": "maths",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": "hindi"
+        },
+        {
+            "--": "12:00 PM",
+            "Monday": "science",
+            "Tuesday": "maths",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "1:00 PM",
+            "Monday": "english",
+            "Tuesday": "science",
+            "Wednesday": "maths",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "2:00 PM",
+            "Monday": "kannada",
+            "Tuesday": "english",
+            "Wednesday": "science",
+            "Thursday": "maths",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "3:00 PM",
+            "Monday": "hindi",
+            "Tuesday": "kannada",
+            "Wednesday": "english",
+            "Thursday": "science",
+            "Friday": "maths",
+            "Saturday": ""
+        },
+        {
+            "--": "4:00 PM",
+            "Monday": "",
+            "Tuesday": "hindi",
+            "Wednesday": "kannada",
+            "Thursday": "english",
+            "Friday": "science",
+            "Saturday": "maths"
+        }
+    ],
+    "9th": [
+        {
+            "--": "8:00 AM",
+            "Monday": "",
+            "Tuesday": "hindi",
+            "Wednesday": "kannada",
+            "Thursday": "english",
+            "Friday": "science",
+            "Saturday": "maths"
+        },
+        {
+            "--": "9:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "hindi",
+            "Thursday": "kannada",
+            "Friday": "english",
+            "Saturday": "science"
+        },
+        {
+            "--": "10:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "hindi",
+            "Friday": "kannada",
+            "Saturday": "english"
+        },
+        {
+            "--": "11:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "hindi",
+            "Saturday": "kannada"
+        },
+        {
+            "--": "12:00 PM",
+            "Monday": "maths",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": "hindi"
+        },
+        {
+            "--": "1:00 PM",
+            "Monday": "science",
+            "Tuesday": "maths",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "2:00 PM",
+            "Monday": "english",
+            "Tuesday": "science",
+            "Wednesday": "maths",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "3:00 PM",
+            "Monday": "kannada",
+            "Tuesday": "english",
+            "Wednesday": "science",
+            "Thursday": "maths",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "4:00 PM",
+            "Monday": "hindi",
+            "Tuesday": "kannada",
+            "Wednesday": "english",
+            "Thursday": "science",
+            "Friday": "maths",
+            "Saturday": ""
+        }
+    ],
+    "10th": [
+        {
+            "--": "8:00 AM",
+            "Monday": "hindi",
+            "Tuesday": "kannada",
+            "Wednesday": "english",
+            "Thursday": "science",
+            "Friday": "maths",
+            "Saturday": ""
+        },
+        {
+            "--": "9:00 AM",
+            "Monday": "",
+            "Tuesday": "hindi",
+            "Wednesday": "kannada",
+            "Thursday": "english",
+            "Friday": "science",
+            "Saturday": "maths"
+        },
+        {
+            "--": "10:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "hindi",
+            "Thursday": "kannada",
+            "Friday": "english",
+            "Saturday": "science"
+        },
+        {
+            "--": "11:00 AM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "hindi",
+            "Friday": "kannada",
+            "Saturday": "english"
+        },
+        {
+            "--": "12:00 PM",
+            "Monday": "",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "hindi",
+            "Saturday": "kannada"
+        },
+        {
+            "--": "1:00 PM",
+            "Monday": "maths",
+            "Tuesday": "",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": "hindi"
+        },
+        {
+            "--": "2:00 PM",
+            "Monday": "science",
+            "Tuesday": "maths",
+            "Wednesday": "",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "3:00 PM",
+            "Monday": "english",
+            "Tuesday": "science",
+            "Wednesday": "maths",
+            "Thursday": "",
+            "Friday": "",
+            "Saturday": ""
+        },
+        {
+            "--": "4:00 PM",
+            "Monday": "kannada",
+            "Tuesday": "english",
+            "Wednesday": "science",
+            "Thursday": "maths",
+            "Friday": "",
+            "Saturday": ""
+        }
+    ]
+}
