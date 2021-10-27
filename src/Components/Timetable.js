@@ -6,28 +6,23 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
-import data from '../dataS.json'
 import Container from '@mui/material/Container';
-import axios from 'axios';
 
 export default function Timetable({ table = ""}) {
   let rows  = null;
 let headers ;
 
   if(table !== "" ){
-    // let response = await axios.get(url);
-    //  setTimeTable(response.data.data);
  rows = table ;
  headers= [] ;
 
-for(let i in rows[0]){
+for(let i in rows[0]){         // getting headers for the table
     headers.push(i)
 }
-
   }
   return (
   <>{
-  rows === null? <div></div>
+  rows === null? <div></div>      // render only when data is available
   :  <>
     {console.log(rows[0])}
     <Container maxWidth="md" gutterBottom>
@@ -37,17 +32,17 @@ for(let i in rows[0]){
           <TableRow>
               {
                   headers?.map((head)=>(
-                    <TableCell align="center">{head}</TableCell>
+                    <TableCell align="center">{head}</TableCell> // render header
                   ))
               } 
           </TableRow>
         </TableHead>
         <TableBody>
-          {rows?.map((row) => (
+          {rows?.map((row) => ( // render rows
             <TableRow>
                 {
-                  headers?.map((head)=>(
-                    <TableCell align="center">{row[head]}</TableCell>
+                  headers?.map((head)=>(  
+                    <TableCell align="center">{row[head]}</TableCell> //  render each cell 
                   ))
               }
             </TableRow>
