@@ -10,7 +10,7 @@ Project setup in local machine ->
 
 clone the repo and add then you will need a backend server to connect the repo ,  which i dont have . the hosted version of the backend timetabe is buggy so their is no backend server yet.
 
-ehat you have to do is clone the Timetablebackend(https://github.com/Abhsihek748/timeTableBackend) yourself and either host it yourself online or just run it locally by using node index.js or nodemon in terminal .
+what you have to do is clone the Timetablebackend(https://github.com/Abhsihek748/timeTableBackend) yourself and either host it yourself online or just run it locally by using node index.js or nodemon in terminal .
 
 
 if you are hosting the backend yourself then go to package.json and change the proxy to that server link .
